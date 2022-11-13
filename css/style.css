@@ -1,0 +1,15 @@
+p { 
+    font-family: serif; 
+    line-height: 1.5em;
+    font-size: 20px;
+} 
+ 
+i { 
+    font-family: sans; 
+    color: cyan; 
+} 
+ 
+h2 { 
+    font-family: sans; 
+    color: cornflowerblue;
+}

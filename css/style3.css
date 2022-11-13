@@ -1,0 +1,12 @@
+.cyan {
+    color: cyan; 
+    background: darkgray; 
+    padding: 5px; 
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+.darkblue {
+    color: darkblue;
+    font-size: 20px;
+}
